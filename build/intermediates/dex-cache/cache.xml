@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\ANDROID\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Android_Games_Projects\SeaBattleAndroid\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-d00fa4ad7c50e2f679ca62dd94f8acc47afd4014.jar" />
+    </item>
+
+</items>
